@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 8, 2017, 10:41:02 AM
+    Author     : lexis
+*/
+
+.bg-color {
+    background-color : #004d40;
+    color: #fff;
+}
+.header{
+    background-image: url('img/p11-full.jpg');
+    height: 400px; 
+    width: 100%;
+}
+
+.comments{
+    margin-top : 20px;
+}
+
+.margin-btn {
+    margin-top: 5px;
+}
+
+.btn-color{
+    background-color: #b2dfdb;
+}
